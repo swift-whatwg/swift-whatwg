@@ -1,15 +1,15 @@
-// swift-tools-version: 6.4
+// swift-tools-version: 6.3.3
 
 import PackageDescription
 
 let package = Package(
     name: "swift-whatwg",
     platforms: [
-        .macOS(.v27),
-        .iOS(.v27),
-        .tvOS(.v27),
-        .watchOS(.v27),
-        .visionOS(.v27),
+        .macOS("27"),
+        .iOS("27"),
+        .tvOS("27"),
+        .watchOS("27"),
+        .visionOS("27"),
     ],
     products: [
         .library(name: "WHATWG", targets: ["WHATWG"])

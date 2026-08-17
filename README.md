@@ -17,7 +17,7 @@ extension WHATWG {
 }
 ```
 
-Toolchain: Swift 6.4 tools, Apple platform floors 27 (swift-institute/.github#511).
+Apple platform floors 27 (swift-institute/.github#511). Tools version 6.3.3: the hosted CI Plan step evaluates manifests under a 6.3.3 container and rejects 6.4 manifests (run 32001710402).
 
 ## License
 
