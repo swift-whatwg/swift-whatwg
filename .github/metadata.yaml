@@ -1,0 +1,9 @@
+# .github/metadata.yaml
+description: "WHATWG authority root namespace for the Swift Institute."
+topics:
+  - standards
+  - whatwg
+  - web-standards
+homepage: "https://swift-institute.org"
+readme:
+  family: E
