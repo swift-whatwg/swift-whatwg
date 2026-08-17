@@ -17,6 +17,8 @@ extension WHATWG {
 }
 ```
 
+Toolchain: Swift 6.4 tools, Apple platform floors 27 (swift-institute/.github#511).
+
 ## License
 
 See [LICENSE.md](LICENSE.md).
