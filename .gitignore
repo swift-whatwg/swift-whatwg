@@ -21,7 +21,6 @@
 /Sources/**
 !/Sources/**/
 !/Sources/**/*.swift
-!/Sources/**/*.docc/**
 !/Sources/* Shims/**/*.h
 !/Sources/* Shims/**/*.c
 !/Sources/* Shims/**/*.modulemap
